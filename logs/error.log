@@ -1,0 +1,74 @@
+24-03-2023 	 16:15:09	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+24-03-2023 	 16:15:09	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+24-03-2023 	 16:15:00	JsonWebTokenError	jwt must be provided	GET	/order/order-history	http://localhost:3000
+24-03-2023 	 16:15:00	JsonWebTokenError	jwt must be provided	GET	/order/order-history	http://localhost:3000
+24-03-2023 	 16:14:34	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+24-03-2023 	 16:14:34	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+24-03-2023 	 16:14:02	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+24-03-2023 	 15:49:16	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+24-03-2023 	 14:46:39	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+23-03-2023 	 09:50:44	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+23-03-2023 	 09:50:44	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+20-03-2023 	 21:41:28	CastError	Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "product"	PUT	/products/update/undefined	http://localhost:3000
+20-03-2023 	 15:12:29	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+20-03-2023 	 15:03:31	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+20-03-2023 	 09:51:20	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+20-03-2023 	 09:51:20	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+20-03-2023 	 09:30:57	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+19-03-2023 	 21:51:37	ReferenceError	result is not defined	GET	/products/	undefined
+16-03-2023 	 14:21:53	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+14-03-2023 	 15:27:50	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+14-03-2023 	 15:27:50	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+14-03-2023 	 15:23:42	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+14-03-2023 	 15:23:42	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+14-03-2023 	 15:19:12	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+14-03-2023 	 15:16:24	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+14-03-2023 	 15:14:54	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+14-03-2023 	 15:11:00	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+14-03-2023 	 15:11:00	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+14-03-2023 	 14:44:47	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+14-03-2023 	 14:41:40	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+14-03-2023 	 14:41:40	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+14-03-2023 	 14:38:44	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+14-03-2023 	 14:38:44	JsonWebTokenError	jwt must be provided	GET	/user/profile	http://localhost:3000
+13-03-2023 	 13:31:12	JsonWebTokenError	jwt must be provided	GET	/cart/cart-history	http://localhost:3000
+13-03-2023 	 13:31:12	JsonWebTokenError	jwt must be provided	GET	/cart/cart-history	http://localhost:3000
+13-03-2023 	 13:31:07	JsonWebTokenError	jwt must be provided	POST	/cart/add-to-cart	http://localhost:3000
+13-03-2023 	 13:31:05	JsonWebTokenError	jwt must be provided	GET	/cart/cart-history	http://localhost:3000
+13-03-2023 	 13:31:01	JsonWebTokenError	jwt must be provided	GET	/cart/cart-history	http://localhost:3000
+13-03-2023 	 13:31:01	JsonWebTokenError	jwt must be provided	GET	/cart/cart-history	http://localhost:3000
+13-03-2023 	 13:30:29	JsonWebTokenError	jwt must be provided	GET	/cart/cart-history	http://localhost:3000
+13-03-2023 	 13:30:29	JsonWebTokenError	jwt must be provided	GET	/cart/cart-history	http://localhost:3000
+11-03-2023 	 17:02:32	CastError	Cast to ObjectId failed for value "{
+  userId: '6409aaafa7b9e7c59320e672',
+  password: '$2a$10$cGbknJuci0kVYqO.XhwmtuMPy8TX1E8/scRHIrpKVz4mNjGCdXi.i'
+}" (type Object) at path "_id" for model "user"	POST	/auth/user/reset-password	http://localhost:3000
+11-03-2023 	 16:59:11	CastError	Cast to ObjectId failed for value "{
+  userId: '6409aaafa7b9e7c59320e672',
+  password: '$2a$10$U4BDggCc3m23Q2l6AAkyPOPjOw0Qvf7Ol.6jabOUDjidumY2nyFQi'
+}" (type Object) at path "_id" for model "user"	POST	/auth/user/reset-password	http://localhost:3000
+11-03-2023 	 16:54:39	CastError	Cast to ObjectId failed for value "{
+  userId: '6409aaafa7b9e7c59320e672',
+  hashpass: '$2a$10$i.ww820WMfneXpAlK5AEXOPBR4zOstzzjqB8qpZgNevWLAwgbe9vC'
+}" (type Object) at path "_id" for model "user"	POST	/auth/user/reset-password	http://localhost:3000
+11-03-2023 	 16:54:24	CastError	Cast to ObjectId failed for value "{
+  userId: '6409aaafa7b9e7c59320e672',
+  hashpass: '$2a$10$dRI2Zn8wiMo5Mh/G5zSDvOOsAGwuApxxmAlF6JdJf0xjjFmLH9r76'
+}" (type Object) at path "_id" for model "user"	POST	/auth/user/reset-password	http://localhost:3000
+11-03-2023 	 16:52:17	CastError	Cast to ObjectId failed for value "{
+  userId: '6409aaafa7b9e7c59320e672',
+  hashpass: '$2a$10$oktDqomz0JhfBrn8kr8tg.I8Uu9hAiosaiWKbHf6oqqJ44THNlqfK'
+}" (type Object) at path "_id" for model "user"	POST	/auth/user/reset-password	http://localhost:3000
+11-03-2023 	 15:27:10	JsonWebTokenError	jwt must be provided	GET	/cart/cart-history	http://localhost:3000
+09-03-2023 	 10:11:56	JsonWebTokenError	jwt must be provided	POST	/cart/add-to-cart	http://localhost:3000
+09-03-2023 	 10:11:47	JsonWebTokenError	jwt must be provided	GET	/cart/cart-history	http://localhost:3000
+08-03-2023 	 15:25:28	ValidationError	order validation failed: products.0.productId: Path `productId` is required., products.0.qty: Path `qty` is required.	POST	/order/payment/verify	http://localhost:3000
+08-03-2023 	 15:21:39	TypeError	Cannot read properties of undefined (reading 'products')	POST	/order/payment/verify	http://localhost:3000
+08-03-2023 	 15:19:11	TypeError	Cannot read properties of undefined (reading 'products')	POST	/order/payment/verify	http://localhost:3000
+08-03-2023 	 15:17:08	TypeError	Cannot read properties of undefined (reading 'products')	POST	/order/payment/verify	http://localhost:3000
+08-03-2023 	 15:15:05	TypeError	Cannot read properties of undefined (reading 'products')	POST	/order/payment/verify	http://localhost:3000
+08-03-2023 	 15:12:18	TypeError	Cannot read properties of undefined (reading 'products')	POST	/order/payment/verify	http://localhost:3000
+08-03-2023 	 14:22:10	JsonWebTokenError	jwt must be provided	GET	/cart/cart-history	http://localhost:3000
+08-03-2023 	 14:22:10	JsonWebTokenError	jwt must be provided	GET	/cart/cart-history	http://localhost:3000
+08-03-2023 	 14:22:08	JsonWebTokenError	jwt must be provided	POST	/cart/add-to-cart	http://localhost:3000
+08-03-2023 	 14:22:06	JsonWebTokenError	jwt must be provided	GET	/cart/cart-history	http://localhost:3000
